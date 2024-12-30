@@ -1,0 +1,11 @@
+flask
+python-dotenv
+requests
+beautifulsoup4
+selenium
+undetected-chromedriver
+pytest
+werkzeug
+typing-extensions
+mimetypes-detect
+uuid
