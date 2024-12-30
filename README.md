@@ -6,12 +6,18 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Cost](https://img.shields.io/badge/Cost-FREE-brightgreen.svg)]()
 
-A powerful Flask-based API providing seamless integration with free AI models (ChatGPT and Grok), featuring robust session management and multi-conversation support.
+✨ A completely free solution for AI integration - No API keys required! ✨
+
+A powerful Flask-based API providing seamless integration with free AI models (ChatGPT and Grok), featuring robust session management and multi-conversation support. Zero cost involved except for hosting!
 
 [Features](#-features) • [Installation](#-installation) • [API Reference](#️-api-routes) • [Documentation](#️-configuration-options) • [Contributing](#-contributing)
 
+
 </div>
+
+> 💡 **Zero Cost AI Solution**: This project requires NO API keys and has NO usage costs! Just deploy and start using AI capabilities completely free.
 
 ## ✨ Features
 
